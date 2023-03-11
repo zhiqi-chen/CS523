@@ -1,3 +1,3 @@
 # CS523
-Boston University
+Boston University\
 Summer 2022
